@@ -1,0 +1,26 @@
+[
+    {
+        "nama_donatur": "Marnathal Pardede",
+        "email": "coki@gmail.com",
+        "password": "admin",
+        "saldo": 500000
+    },
+    {
+        "nama_donatur": "Muhamad Ottoyd",
+        "email": "ugaipribadi@gmail.com",
+        "password": "admin",
+        "saldo": 1000000
+    },
+    {
+        "nama_donatur": "S-U-H-A-R-T-O",
+        "email": "suharto@suharto.suharto",
+        "password": "god",
+        "saldo": 100000
+    },
+    {
+        "nama_donatur": "allayyy",
+        "email": "ugaiaccretiathrone@gmail.com",
+        "password": "sad",
+        "saldo": 1000
+    }
+]
