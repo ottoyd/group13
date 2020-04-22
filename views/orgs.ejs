@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border>
+        <tr>
+            <th>id</th>
+            <th>nama_yayasan</th>
+            <th>target</th>
+            <th>kepala_yayasan</th>
+            <th>jumlah_terkumpul</th>
+            <th>action</th>
+        </tr>
+        <% for(let i in data) { %> 
+        <tr>
+            <td> <%= data[i].id %> </td>
+            <td> <%= data[i].nama_yayasan %> </td>
+            <td> <%= data[i].target %> </td>
+            <td> <%= data[i].kepala_yayasan %> </td>
+            <td> <%= data[i].jumlah_terkumpul %> </td>
+            <td> <a href="">Edit</a> | <a href="">Delete</a> </td>
+        </tr>
+        <% } %> 
+    </table>
+</body>
+</html>

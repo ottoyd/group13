@@ -1,0 +1,17 @@
+[
+    {
+        "OrgsId":1,
+        "DonaturId":1,
+        "jumlah_donasi":10000
+    },
+    {
+        "OrgsId":2,
+        "DonaturId":2,
+        "jumlah_donasi":20000
+    },
+    {
+        "OrgsId":3,
+        "DonaturId":3,
+        "jumlah_donasi":30000
+    }
+]

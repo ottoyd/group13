@@ -1,0 +1,20 @@
+[
+    {
+        "nama_yayasan":"Mundur Jaya",
+        "target":100000,
+        "kepala_yayasan":"Joni",
+        "jumlah_terkumpul": 20000
+    },
+    {
+        "nama_yayasan":"Africa Care",
+        "target":200000,
+        "kepala_yayasan":"Josep Kony",
+        "jumlah_terkumpul": 20000
+    },
+    {
+        "nama_yayasan":"Obama Care",
+        "target":500000,
+        "kepala_yayasan":"Obama",
+        "jumlah_terkumpul": 20000
+    }
+]
